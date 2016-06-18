@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">The Patient Health Questionnaire (PHQ-9)</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="Q2">2. Feeling Down, Depressed, or Hopeless</string>
+    //50dp
+    <string name="Q3">3. Trouble Falling or Staying Asleep, or Sleeping Too Much</string>
+    //50dp
+    <string name="Q4">4. Feeling Tired or Having Little Energy</string>
+    //50dp
+    <string name="Q5">5. Poor Appetite or Overeating</string>
+    //50dp
+    <string name="Q6">6. Feeling Bad About Yourself - or that You are a Failure or Have Let Yourself or Your Family Down</string>
+    //35dp
+    <string name="Q7">7. Trouble Concentrating on Things, Such As Reading the Newspaper or Watching Television</string>
+    //40dp
+    <string name="Q8">8. Moving or Speaking so Slowly that Other People Could Have Noticed. Or the Opposite - Being so Figety or Restless that you have been Moving Around a Lot More than Usual</string>
+    //30dp
+    <string name="Q9">9. Thoughts that You Would be Better Off Dead, or of Hurting Yourself</string>
+    //40dp
+
+</resources>
